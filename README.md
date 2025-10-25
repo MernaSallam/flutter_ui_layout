@@ -29,7 +29,6 @@ lib/
 
 
 ## 🚀 Getting Started
-```bash
 git clone https://github.com/YourUsername/flutter_login_ui.git
 flutter run
 
