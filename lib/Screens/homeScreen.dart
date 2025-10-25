@@ -17,9 +17,8 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       backgroundColor: const Color(0xFFF5F5F5),
       appBar: AppBar(
-        title: const Text('Home'),
+        title: const Text('Home', style: TextStyle(color: Colors.white)),
         backgroundColor: const Color(0xFF8C5DDF),
-        centerTitle: true,
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
